@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **RELAX**
-
 - 📫 How to reach me **oa6346@srmist.edu.in**
 
 <h3 align="left">Connect with me:</h3>
